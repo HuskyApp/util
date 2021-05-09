@@ -1,8 +1,8 @@
-# husky-util
+# @huskyapp/util
 
 Global utility packages used by HuskyApp projects.
 
 ## Packages
 
--   [eslint-config](/tree/master/packages/eslint-config)
--   [prettier-config](/tree/master/packages/prettier-config)
+-   [eslint-config](/packages/eslint-config)
+-   [prettier-config](/packages/prettier-config)
