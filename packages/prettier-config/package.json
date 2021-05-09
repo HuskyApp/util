@@ -1,0 +1,10 @@
+{
+    "name": "@huskyapp/prettier-config",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "description": "Global ESLint configuration for HuskyApp projects.",
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "@huskyapp/util",
+    "version": "1.0.0",
+    "description": "Utility packages used by HuskyApp projects.",
+    "main": "index.js",
+    "license": "MIT",
+    "workspaces": [
+        "packages/**"
+    ],
+    "private": true
+}
